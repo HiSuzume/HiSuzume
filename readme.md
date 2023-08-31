@@ -1,11 +1,11 @@
 <!--<img align='right' src='https://cdn.jsdelivr.net/gh/HiSuzume/hisuzume/suzume.png' width='410px'>-->
 
-喔，我的伙计们👋
+嘿，大佬们👋
 
-这里是 HiSuzume，一个喜欢新海诚电影的屑代码员，高级 CV 工程师(bushi)，以及爱打电动的初生💦
+欢迎来到 HiSuzume 的码园，园长是一个喜欢《你的名字。》的高级 CV 工程师，以及爱玩 Tr 和 Mc 的初~~中~~生💦
 
-偶尔开发点奇妙的玩意儿~~比如锁机~~🌚🙏
+偶尔开发点奇妙的玩意~~比如锁机~~
 
 希望我和代码能玩得开心 (๑ᵔ⌔ᵔ๑)
 
-——HiSuzume 于 2023.8.31 在~~学校~~牢里
+——HiSuzume 2023.8.31 在~~学校~~牢里
